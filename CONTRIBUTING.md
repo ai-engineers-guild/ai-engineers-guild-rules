@@ -1,21 +1,36 @@
-# Contributing to the Guild
+# Как внести вклад в Гильдию
 
-First off, thank you for considering contributing! The Guild is only as strong as its active members.
+Спасибо, что хотите помочь! Гильдия становится сильнее благодаря активным участникам.
 
-## How Can I Contribute?
+## Как можно помочь
 
-### Proposing Rule Changes
-If you feel a rule in `main_rules.md` is outdated or missing, open an Issue for discussion or submit a PR directly to the `dev` branch.
+### Предложить изменение правил
 
-### Adding to the Backlog
-Have an idea for a Guild event, a new tool, or a marketplace feature? Add it to `backlog.md` via a PR to the `dev` branch.
+Если какое-то правило в `rules.md` устарело или чего-то не хватает, создайте Issue для обсуждения или отправьте Pull Request в ветку `dev`.
 
-## Pull Request Process
+### Добавить идею в бэклог
 
-1. Ensure your changes are made in a branch based on `dev`.
-2. Update the documentation if necessary.
-3. Be descriptive in your PR message about *why* this change is beneficial for the Guild.
-4. Wait for peer review and discussion.
+Если у вас есть идея для события, инструмента или функции сообщества, добавьте её в `backlog.md` через Pull Request в ветку `dev`.
 
-## Code of Conduct
-Be excellent to each other. We are here to learn and build, not to gatekeep.
+### Предложить community-формат
+
+Также можно:
+
+- предложить событие или добавить событие в `calendar.md`;
+- предложить кейс или тему для эфира Гильдии;
+- предложить публичный репозиторий для будущего Open Source Campaign или небольшой совместной практики в GitHub;
+- добавить или обновить свою добровольную карточку в `authors.md`;
+- предложить короткое и понятное изменение правил сообщества.
+
+Старайтесь формулировать предложения конкретно и без лишней бюрократии. Участие в форматах сообщества добровольное: предложение не должно создавать обязательный процесс для всех.
+
+## Процесс Pull Request
+
+1. Создайте ветку от `dev`.
+2. Внесите изменения и при необходимости обновите документацию.
+3. В описании Pull Request объясните, какую пользу изменение принесёт Гильдии.
+4. Дождитесь обсуждения и ревью участников.
+
+## Кодекс поведения
+
+Относитесь друг к другу доброжелательно. Мы здесь, чтобы учиться и создавать, а не ставить барьеры другим участникам.

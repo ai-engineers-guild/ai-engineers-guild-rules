@@ -33,12 +33,21 @@ We are a community of builders who believe that AI is not just a tool, but a par
 
 ## 🛠 Project Structure
 
-- `main_rules.md`: The "Constitution" of the Guild. Rules for interaction, behavior, and ethics (in Russian).
+- `rules.md`: The "Constitution" of the Guild. Rules for interaction, behavior, and ethics (in Russian).
 - `advertising.md`: Guild rules for advertising, self-promotion, and job postings (in Russian).
 - `about.md`: The Manifesto and Vision of the Guild, detailing our philosophical and social foundations, ODS principles, and our Almaty offline core (in Russian).
-- `features.md`: Currently active features, streams, open-source campaigns, and bots of the Guild (in Russian).
+- `features.md`: Currently active features, streams, open-source campaigns, and community formats (in Russian).
+- `calendar.md`: A manually maintained calendar of Guild events, grouped by month and week.
+- `authors.md`: Voluntary directory of AI authors and their areas of expertise.
 - `backlog.md`: Our community-driven roadmap. Ideas for events, bots, tools, marketplace artifacts, and platform features.
 - `CONTRIBUTING.md`: How you can propose new rules or features to the repository.
+
+## 🔗 Community Links
+
+- Telegram group: [AI Engineers Guild](https://t.me/ai_engineers_guild)
+- YouTube channel: link will be added after the channel is created.
+- Events calendar: [`calendar.md`](calendar.md)
+- AI authors directory: [`authors.md`](authors.md)
 
 ---
 
